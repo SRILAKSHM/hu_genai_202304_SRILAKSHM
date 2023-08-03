@@ -45,7 +45,7 @@ o/p: SELECT * FROM Testing
 2.	Can you please rephrase the sentence to understand your query better.
 
 ## Authors and Acknowledments
-•	Srilakshm Vinnakota
+•	Srilakshmi Vinnakota
 
 ## Contact
 
@@ -56,6 +56,6 @@ For questions, feedback or support, please contact:
 
 Frequently asked questions and their answers:
 •	Q1: What does this Project do?
-•	A1: It gives output for SQL Query of given table and requirement
+  •	A1: It gives output for SQL Query of given table and requirement
 •	Q2: What if I’m getting No module found error?
-•	A2: Install particular library using ‘pip install library_name’
+  •	A2: Install particular library using ‘pip install library_name’
